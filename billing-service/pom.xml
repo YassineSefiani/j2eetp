@@ -8,7 +8,7 @@
 		<version>3.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.yassinebek</groupId>
+	<groupId>com.example.yassinesef</groupId>
 	<artifactId>billing-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>billing-service</name>

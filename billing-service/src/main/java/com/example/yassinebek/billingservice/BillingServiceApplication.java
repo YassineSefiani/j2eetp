@@ -1,14 +1,14 @@
-package com.example.yassinebek.billingservice;
+package com.example.yassinesef.billingservice;
 
 
-import com.example.yassinebek.billingservice.entites.Bill;
-import com.example.yassinebek.billingservice.entites.ProductItem;
-import com.example.yassinebek.billingservice.feign.CustomerRestClient;
-import com.example.yassinebek.billingservice.feign.ProductRestClient;
-import com.example.yassinebek.billingservice.model.Customer;
-import com.example.yassinebek.billingservice.model.Product;
-import com.example.yassinebek.billingservice.repository.BillRepository;
-import com.example.yassinebek.billingservice.repository.ProductItemRepository;
+import com.example.yassinesef.billingservice.entites.Bill;
+import com.example.yassinesef.billingservice.entites.ProductItem;
+import com.example.yassinesef.billingservice.feign.CustomerRestClient;
+import com.example.yassinesef.billingservice.feign.ProductRestClient;
+import com.example.yassinesef.billingservice.model.Customer;
+import com.example.yassinesef.billingservice.model.Product;
+import com.example.yassinesef.billingservice.repository.BillRepository;
+import com.example.yassinesef.billingservice.repository.ProductItemRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

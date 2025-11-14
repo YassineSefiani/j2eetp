@@ -1,11 +1,11 @@
-package com.example.yassinebek.billingservice.web;
+package com.example.yassinesef.billingservice.web;
 
 
-import com.example.yassinebek.billingservice.entites.Bill;
-import com.example.yassinebek.billingservice.feign.CustomerRestClient;
-import com.example.yassinebek.billingservice.feign.ProductRestClient;
-import com.example.yassinebek.billingservice.repository.BillRepository;
-import com.example.yassinebek.billingservice.repository.ProductItemRepository;
+import com.example.yassinesef.billingservice.entites.Bill;
+import com.example.yassinesef.billingservice.feign.CustomerRestClient;
+import com.example.yassinesef.billingservice.feign.ProductRestClient;
+import com.example.yassinesef.billingservice.repository.BillRepository;
+import com.example.yassinesef.billingservice.repository.ProductItemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

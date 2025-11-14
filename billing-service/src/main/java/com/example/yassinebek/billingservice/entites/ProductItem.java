@@ -1,4 +1,4 @@
-package com.example.yassinebek.billingservice.entites;
+package com.example.yassinesef.billingservice.entites;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

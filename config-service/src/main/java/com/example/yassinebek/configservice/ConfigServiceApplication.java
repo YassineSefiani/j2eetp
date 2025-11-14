@@ -1,4 +1,4 @@
-package com.example.yassinebek.configservice;
+package com.example.yassinesef.configservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package com.example.yassinebek.customerservice.repository;
+package com.example.yassinesef.customerservice.repository;
 
-import com.example.yassinebek.customerservice.entites.Customer;
+import com.example.yassinesef.customerservice.entites.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

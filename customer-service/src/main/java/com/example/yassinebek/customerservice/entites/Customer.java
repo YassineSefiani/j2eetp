@@ -1,4 +1,4 @@
-package com.example.yassinebek.customerservice.entites;
+package com.example.yassinesef.customerservice.entites;
 
 
 import jakarta.persistence.Entity;

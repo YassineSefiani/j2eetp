@@ -1,4 +1,4 @@
-package com.example.yassinebek.configservice;
+package com.example.yassinesef.configservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

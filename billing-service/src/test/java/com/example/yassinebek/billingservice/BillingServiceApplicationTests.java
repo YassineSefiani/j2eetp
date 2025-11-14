@@ -1,4 +1,4 @@
-package com.example.yassinebek.billingservice;
+package com.example.yassinesef.billingservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

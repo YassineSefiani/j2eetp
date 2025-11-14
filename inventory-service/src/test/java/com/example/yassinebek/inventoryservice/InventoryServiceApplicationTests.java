@@ -1,4 +1,4 @@
-package com.example.yassinebek.inventoryservice;
+package com.example.yassinesef.inventoryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

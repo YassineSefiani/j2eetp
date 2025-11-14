@@ -1,4 +1,4 @@
-package com.example.yassinebek.gateweyservice;
+package com.example.yassinesef.gateweyservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.yassinebek.billingservice.model;
+package com.example.yassinesef.billingservice.model;
 
 import lombok.Getter;
 import lombok.Setter;

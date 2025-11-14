@@ -1,8 +1,8 @@
-package com.example.yassinebek.customerservice;
+package com.example.yassinesef.customerservice;
 
-import com.example.yassinebek.customerservice.config.CustomerConfigParams;
-import com.example.yassinebek.customerservice.entites.Customer;
-import com.example.yassinebek.customerservice.repository.CustomerRepository;
+import com.example.yassinesef.customerservice.config.CustomerConfigParams;
+import com.example.yassinesef.customerservice.entites.Customer;
+import com.example.yassinesef.customerservice.repository.CustomerRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

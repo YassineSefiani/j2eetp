@@ -1,4 +1,4 @@
-package com.example.yassinebek.gateweyservice;
+package com.example.yassinesef.gateweyservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

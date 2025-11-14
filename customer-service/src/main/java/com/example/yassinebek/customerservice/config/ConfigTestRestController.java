@@ -1,4 +1,4 @@
-package com.example.yassinebek.customerservice.config;
+package com.example.yassinesef.customerservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

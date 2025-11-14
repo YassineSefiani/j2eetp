@@ -1,4 +1,4 @@
-package com.example.yassinebek.inventoryservice;
+package com.example.yassinesef.inventoryservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

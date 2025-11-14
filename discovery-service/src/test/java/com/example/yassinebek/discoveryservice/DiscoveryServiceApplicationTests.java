@@ -1,4 +1,4 @@
-package com.example.yassinebek.discoveryservice;
+package com.example.yassinesef.discoveryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

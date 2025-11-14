@@ -1,4 +1,4 @@
-package com.example.yassinebek.billingservice.feign;
+package com.example.yassinesef.billingservice.feign;
 
 public class ProductRestClient {
 }

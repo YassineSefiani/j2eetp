@@ -1,6 +1,6 @@
-package com.example.yassinebek.customerservice.config;
+package com.example.yassinesef.customerservice.config;
 
-import com.example.yassinebek.customerservice.entites.Customer;
+import com.example.yassinesef.customerservice.entites.Customer;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;

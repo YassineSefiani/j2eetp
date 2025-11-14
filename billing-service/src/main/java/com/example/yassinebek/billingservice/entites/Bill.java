@@ -1,4 +1,4 @@
-package com.example.yassinebek.billingservice.entites;
+package com.example.yassinesef.billingservice.entites;
 
 import jakarta.persistence.*;
 import lombok.*;
